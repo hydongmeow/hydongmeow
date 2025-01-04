@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **hydongmeow/hydongmeow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,7 +36,7 @@ Here are some ideas to get you started:
     
 ```diff
 ! Where my passion is:
-+ Machine Learning, cybersecurity, research, and reading. Also: Muay Thai and football.
++ Machine Learning, cybersecurity, research, and reading. 
 ```
 
 #### Skills
