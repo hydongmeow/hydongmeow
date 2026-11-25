@@ -32,7 +32,7 @@ var working_language = new ArrayList()
 				};
 var daily_work_pkg = new ArrayList()
 				{
-					"numpy", "Pandas", "scikit-learn", "SciPy", "Matplotlib", "seaborn", "Keras", "PyTorch"
+					"numpy", "Pandas", "scikit-learn", "SciPy", "Matplotlib", "seaborn", "Keras", "PyTorch", "Streamlit"
 				};
 					
 string[] webdev_experience = {"HTML", "CSS", "JavaScript", "jQuery", "C#"};
